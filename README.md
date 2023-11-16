@@ -13,6 +13,6 @@
 
 <h1>🏆 GitHub Stats:</h1>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pkolev26&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="pkolev26" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pkolev26&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="pkolev26"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkolev26&theme=dark" alt="pkolev26" /></p>
