@@ -2,7 +2,7 @@
 <h3 align="center">A C# Web Developer from Bulgaria</h3>
 
 <h1>😉 Current Status:</h1>
-<p>- 🌱 I’m currently learning <strong>Entity Framework Core at SoftUni</strong>!</p>
+<p>- 🌱 I’m currently learning <strong>C# Web at SoftUni</strong>!</p>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%235C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
