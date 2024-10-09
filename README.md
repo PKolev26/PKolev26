@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Plamen Kolev</h1>
 
 <h1>😉 Current Status:</h1>
-<p>- 🌱 I’m currently learning <strong>JavaScript at SoftUni</strong>!</p>
+<p>- 🌱 I’m currently learning <strong>JavaScript at SoftUni</strong> and <strong>Computer Science at Faculty of Mathematics and Informatics / Sofia University "St. Kliment Ohridski" </strong>!</p>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%235C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
