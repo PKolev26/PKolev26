@@ -6,6 +6,7 @@
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%235C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-%230078D7.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-FAD800?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
