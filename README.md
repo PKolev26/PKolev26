@@ -23,7 +23,3 @@
 # 🏆 GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=pkolev26&show_icons=true&theme=dark&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pkolev26&theme=dark&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=pkolev26&theme=onedark)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pkolev26&theme=github-compact)
-
-
