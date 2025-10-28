@@ -2,7 +2,7 @@
 
 <h1>😉 Current Status:</h1>
 <p>- 🌱 I’m currently in my second year of <strong>Computer Science at Faculty of Mathematics and Informatics / Sofia University "St. Kliment Ohridski"</strong></p> 
-<p>and learning <strong>Software Engineering and DevOps</strong> at <strong>SoftUni</strong>!</p>
+<p>and learning <strong>Containers and Cloud</strong> at <strong>SoftUni</strong>!</p>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%235C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
