@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Plamen Kolev</h1>
 
 <h1>😉 Current Status:</h1>
-<p>- 🌱 I’m currently in my second year of <strong>Computer Science at Faculty of Mathematics and Informatics / Sofia University "St. Kliment Ohridski"</strong></p> 
-<p>and learning <strong>Containers and Cloud</strong> at <strong>SoftUni</strong>!</p>
+<p>- 🌱 I’m currently in my second year of <strong>Computer Science at Faculty of Mathematics and Informatics / Sofia University "St. Kliment Ohridski"</strong></p>
 
 # 💻 Software Engineering Stack:
 ![C#](https://img.shields.io/badge/c%23-%235C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -19,9 +18,15 @@
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 # ⚙️ DevOps Stack:
+### ⚙️ DevOps Stack:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 # 📊 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkolev26&theme=dark&bg_color=151515&hide_border=true&layout=compact)
