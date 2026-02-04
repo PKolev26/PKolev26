@@ -16,6 +16,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Scheme](https://img.shields.io/badge/Scheme-%239F1D20.svg?style=for-the-badge&logo=racket&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)
 
 # ⚙️ DevOps Stack:
 ### ⚙️ DevOps Stack:
